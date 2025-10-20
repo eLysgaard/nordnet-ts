@@ -1,0 +1,17 @@
+src/
+test/
+examples/
+.github/
+*.log
+*.md
+!README.md
+tsconfig.json
+tsup.config.ts
+vitest.config.ts
+.eslintrc.js
+.prettierrc
+.gitignore
+nordnet-api.md
+nordnet-api.pdf
+nordnet-api_meta.json
+convert_pdf_to_md.py

@@ -1,0 +1,15 @@
+node_modules/
+dist/
+coverage/
+*.log
+.DS_Store
+.env
+.env.local
+*.tsbuildinfo
+.claude/
+
+# API documentation (dev files)
+nordnet-api.pdf
+nordnet-api.md
+nordnet-api_meta.json
+convert_pdf_to_md.py
